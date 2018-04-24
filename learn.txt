@@ -5,3 +5,4 @@ diff one
 diff two
 branch is hard
 branch is  jb
+bug is good
